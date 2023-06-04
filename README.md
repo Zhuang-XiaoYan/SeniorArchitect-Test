@@ -1,37 +1,40 @@
-# SeniorArchitect-Test
+# <h1 align="center"> 系统软件架构师考试（高级） </h1>
 
-#### 介绍
-系统架构师高级考试
+<h3>本仓库主要介绍系统软件架构师考试（高级）考试相关项目，为大家提供一个通过软考高级考试的学习的参考，同时也是帮助大家梳理系统软件架构师考试（高级）的知识点。</h3>
 
-#### 软件架构
-软件架构说明
+---
+其他平台将同步更新
+- [Github](https://github.com/2462612540)
+- [Gitee](https://gitee.com/xjl2462612540)
+- [CSDN](https://blog.csdn.net/weixin_41605937)
+- [雀语](https://www.yuque.com/zhuangxiaoyan/kgkvky/igxzid)
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+---
+# 一、Xmind
 
 
-#### 特技
+---
+# 二、SeniorArchitectTest各个章节知识点
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+
+
+---
+# 三、2009-2018年案例分析模拟真题
+
+
+
+---
+# 四、2009-2018年软件系统架构师真题
+
+
+
+---
+# 五、博文引用
+
+
+
+
+---
+# 仓库说明
+> 本项目所有内容来源于个人总结而形成。同时大部分内容是学习互联网上的相关知识和翻阅相关书籍原著获得，所以在一些知识的理解上可能存在错误，肯请各位大佬及时指出。
+> 另外项目中部分图像是直接引用而来，如果涉及到相关的版权问题，请及时联系我我的邮箱是：18279148786@163.com 本人将立即改正。
